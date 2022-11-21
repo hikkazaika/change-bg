@@ -28,8 +28,7 @@ header {
     cursor: pointer;
 }
 
-.butttons > input[type="color"]::-webkit-color-swatch,
-.butttons > input[type="color"]::-moz-color-swatch{
+.butttons > input[type="color"]::-webkit-color-swatch {
     border-radius: 35px;
 }
 
